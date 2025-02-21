@@ -1,11 +1,10 @@
 # Hola 👋, Marcos
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.github.repoName) [![GitHub followers](https://img.shields.io/github/followers/TuUsuario.svg?style=social&label=Follow)](https://github.com/TuUsuario?tab=followers)<br/>
 
 <!--
 **TuUsuario/TuUsuario** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
@@ -61,4 +60,13 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez. Ten
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </span>
+
+## Check out my Social Media
+<a href= "https://www.instagram.com/marcos.mendez00/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href= "www.linkedin.com/in/marcos00">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href= "https://youtube.com/@marcosmendez1051?si=jTvAp03hiIDSHWBD">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+
 
