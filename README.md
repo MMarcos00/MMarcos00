@@ -1,4 +1,9 @@
-# Hola 👋, Marcos
+<h1> ¡Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Hola+Soy+Marcos;Memopro5107x">
+</p>
+
+
 
 <!--
 **TuUsuario/TuUsuario** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
@@ -61,6 +66,7 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez. Ten
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
 </span>
 
+
 ## Check out my Social Media
 <a href= "https://www.instagram.com/marcos.mendez00/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
@@ -69,4 +75,7 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez. Ten
 <a href= "https://youtube.com/@marcosmendez1051?si=jTvAp03hiIDSHWBD">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
 
+<!-- Tools and Platforms -->
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
