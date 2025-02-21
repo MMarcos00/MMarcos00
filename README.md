@@ -1,4 +1,4 @@
-# Hola 👋, Marcos 
+# Hola 👋, Marcos
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TuUsuario.github.repoName) [![GitHub followers](https://img.shields.io/github/followers/TuUsuario.svg?style=social&label=Follow)](https://github.com/TuUsuario?tab=followers)<br/>
 
 <!--
@@ -16,13 +16,49 @@ Soy estudiante de Ingeniería en Sistemas en la Universidad Mariano Gálvez. Ten
   - Desarrollo de aplicaciones móviles
   - Gestión y análisis de datos
   - Computación en la nube y DevOps
+  - Ciberseguridad y hacking ético
 
 - 🌱 Actualmente estoy aprendiendo:
   - Java avanzado y Spring Framework
   - Aprendizaje automático con Python
+  - Ciberseguridad y hacking ético
 
-- 👯 Estoy buscando colaborar en proyectos de código abierto y contribuir a la comunidad tecnológica.
 - ✔ Pregúntame sobre cualquier tema relacionado con la tecnología, la enseñanza o la programación, ¡estaré encantado de ayudar!😉<br>
 - Fuera del ámbito tecnológico, 📚 me gusta jugar fútbol, 🧗‍♂️ escalar y 🏋️‍♂️ ir al gimnasio.
 
-- 📫 Puedes contactarme en: <a href="mailto:mendezmarcosgt@gmail.com">mendezmarcosgt@gmail.com</a>
+- 📫 Puedes contactarme en: 
+  - <a href="mailto:mendezmarcosgt@gmail.com">mendezmarcosgt@gmail.com</a>
+  - <a href="mailto:marcosmendez9@outlook.com">marcosmendez9@outlook.com</a>
+
+  ## My Skills Include
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
+  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+</span>
+
